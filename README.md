@@ -68,4 +68,4 @@ Performance comparison with other driving behavior classification methods on exp
 ## **Contribute**
 
 
-Thanks to [Yan Gong](https://github.com/gongyan1) and [Wenzhuo Liu](https://github.com/liuwenzhuo1) for their contributions to this code base.
+Thanks to [Yan Gong](https://github.com/gongyan1) and [Jianli Lu](https://github.com/alu222) for their contributions to this code base.
