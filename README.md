@@ -9,7 +9,7 @@ PyTorch implementation of the paper "GLMDriveNet: Global-local Multimodal Fusion
 
 
 
-- [2022-10-26] Release the initial code for GLMDriveNet.
+- [2023-01-28] Release the initial code for GLMDriveNet.
 
 
 
