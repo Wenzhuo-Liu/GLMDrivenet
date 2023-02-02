@@ -54,19 +54,19 @@ python main.py --mode test
 
 Performance comparison with other driving behavior classification methods on experimental data of all roads. The Acc, Pre and Rec represent the accuracy, precision and recall. The "-" means that it is not indicated in the method.
 
-![](result1.PNG)
+![](result1.png)
 
 
 
 Performance comparison with other driving behavior classification methods on experimental data of motorway road.
 
-![](result2.PNG)
+![](result2.png)
 
 
 
 Performance comparison with other driving behavior classification methods on experimental data of secondary road.
 
-![](result3.PNG)
+![](result3.png)
 
 ## **Contribute**
 
