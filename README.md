@@ -1,7 +1,10 @@
 
 # **GLMDriveNet: Global-local Multimodal Fusion Driving Behavior Classification Network**
 
+![](architecture.PNG)
+
 PyTorch implementation of the paper "GLMDriveNet: Global-local Multimodal Fusion Driving Behavior Classification Network"
+
 
 
 
